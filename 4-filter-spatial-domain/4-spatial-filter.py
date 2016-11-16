@@ -11,7 +11,6 @@
 
 # In[1]:
 
-get_ipython().magic('matplotlib inline')
 #%pprint off
 
 # Matplotlib library
